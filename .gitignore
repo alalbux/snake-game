@@ -1,0 +1,8 @@
+# OSX folders
+.DS_Store
+
+# Vendor
+node_modules/
+
+
+package-lock.json
